@@ -5,7 +5,7 @@ This project analyzes TNEA 2024 Round 1 seat vacancy data, focusing on trends in
 ## Overview
 This repository contains the data analysis and visualization for the seat vacancy dataset provided by TNEA 2024 after Round 1. The analysis focuses on understanding seat allocation trends across different colleges and departments, with a special emphasis on the Backward Class (BC) category.
 
-## Dataset Description
+## Dataset Description - seat_allotment
 The dataset includes the following columns:
 - **CollegeName**: The name of the college.
 - **DeptName**: The name of the department.
